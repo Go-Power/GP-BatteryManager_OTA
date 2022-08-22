@@ -1,0 +1,1 @@
+# BatteryManager_BIN_OTA
