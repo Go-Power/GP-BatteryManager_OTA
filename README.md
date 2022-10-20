@@ -12,5 +12,6 @@ Used to store bin updates for APP fetching into Battery Manager and Smart Shunt 
 
 
 
-Go Power!*SmartShunt-0.00.01.1-363833470835373851474524-
+Go Power!*SmartShunt-0.00.01.1-363833470835373851474524
+
 GOPOWER*GP-LFP-100-ADV*220704-0001-33470835373851474524-
