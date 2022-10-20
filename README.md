@@ -11,6 +11,7 @@ Used to store bin updates for APP fetching into Battery Manager and Smart Shunt 
 |       Shunt FW      |  0.00.02  |
 
 
+Example Product IDS:
 
 Go Power!*SmartShunt-0.00.01.1-363833470835373851474524
 
