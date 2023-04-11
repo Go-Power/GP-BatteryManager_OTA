@@ -6,7 +6,7 @@ Used to store bin updates for APP fetching into Battery Manager and Smart Shunt 
 
 |  Available FW Bins  | FW Version|
 |---------------------|-----------|
-|GP DISPLAY DEFAULT FW|   1.0.3   |
+|GP DISPLAY DEFAULT FW|   1.0.4   |
 |  GP DISPLAY FF FW   |   1.0.2   |
 |       Shunt FW      |  0.00.04  |
 
