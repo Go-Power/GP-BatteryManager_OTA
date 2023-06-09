@@ -9,7 +9,8 @@ Used to store bin updates for APP fetching into Battery Manager and Smart Shunt 
 |GP DISPLAY DEFAULT FW|   1.0.4   |
 |  GP DISPLAY FF FW   |   1.0.2   |
 |       Shunt FW      |  1.02.04  |
-
+| DISPLAY_DEFAULT_FW  |   1.0.4   |
+|       Shunt_FW      |  1.02.04  |
 
 Example Product IDS:
 
