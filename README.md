@@ -11,6 +11,8 @@ Used to store bin updates for APP fetching into Battery Manager and Shunt Firwma
 |       Shunt FW      |  1.02.04  |
 | DISPLAY_DEFAULT_FW  |   1.0.4   |
 |       Shunt_FW      |  1.01.01  |
+|       ADV_100       |26|
+|       ADV_300       |11|
 
 Example Product IDS:
 
