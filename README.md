@@ -17,6 +17,7 @@ Used to store bin updates for APP fetching into Battery Manager and Shunt Firwma
 |       SC_DB30_MC | 8 | 
 |       SC_DB40_MC | 7 | 
 |       INV_EP       |1|
+|       AIC_GP       | 1.00.01 |
 
 Example Product IDS:
 
