@@ -6,18 +6,18 @@ Used to store bin updates for APP fetching into Battery Manager and Shunt Firwma
 
 |  Available FW Bins  | FW Version|
 |---------------------|-----------|
-|GP DISPLAY DEFAULT FW|   1.0.39   |
-|  GP DISPLAY FF FW   |   1.0.2   |
+|GP DISPLAY DEFAULT FW|  1.0.39   |
+|  GP DISPLAY FF FW   |  1.0.2    |
 |       Shunt FW      |  1.02.04  |
-| DISPLAY_DEFAULT_FW  |   1.0.39   |
+| DISPLAY_DEFAULT_FW  |  1.0.39   |
 |       Shunt_FW      |  1.01.01  |
-|       ADV_100       |26|
-|       ADV_300       |11|
-|       SC_DB       |1.00.08| 
-|       SC_DB30_MC | 8 | 
-|       SC_DB40_MC | 7 | 
-|       INV_EP       |1|
-|       AIC_GP       | 1.00.01 |
+|       ADV_100       |  26       |
+|       ADV_300       |  11       |
+|       SC_DB         |  1.00.08  | 
+|       SC_DB30_MC    |  8        | 
+|       SC_DB40_MC    |  7        | 
+|       INV_EP        |  1        |
+|       AIC_GP        |  1.00.01  |
 
 Example Product IDS:
 
