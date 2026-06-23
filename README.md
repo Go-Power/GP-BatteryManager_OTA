@@ -12,9 +12,9 @@ Used to store bin updates for APP fetching into Battery Manager and Shunt Firwma
 |       Shunt_FW      |  1.01.02  |
 |       ADV_100       |  26       |
 |       ADV_300       |  11       |
-|       SC_DB         |  1.00.10  | 
-|       SC_DB30_MC    |  8        | 
-|       SC_DB40_MC    |  7        | 
+|       SC_DB         |  1.00.16  | 
+|       SC_DB30_MC    |  16       | 
+|       SC_DB40_MC    |  16       | 
 |       INV_EP        |  1        |
 |       AIC_ADP       |  1.00.03  |
 |       AIC_MAIN      |  498      |
