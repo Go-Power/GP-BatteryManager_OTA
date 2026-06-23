@@ -9,7 +9,7 @@ Used to store bin updates for APP fetching into Battery Manager and Shunt Firwma
 |  GP DISPLAY FF FW   |  1.0.2    |
 |       Shunt FW      |  1.02.04  |
 | DISPLAY_DEFAULT_FW  |  1.0.54   |
-|       Shunt_FW      |  1.01.01  |
+|       Shunt_FW      |  1.01.02  |
 |       ADV_100       |  26       |
 |       ADV_300       |  11       |
 |       SC_DB         |  1.00.10  | 
